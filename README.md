@@ -2,9 +2,9 @@
 
 ## First method
 
-<h1 text align = "center">Watch ip cams all over the world using the most popular search engines like: </h1>
+<h1 text align = "left">Watch ip cams all over the world using the most popular search engines like: </h1>
 
-<h1 text align = "center">google search engine, shodan.io, censys.io </h1>
+<h1 text align = "left">google search engine, shodan.io, censys.io </h1>
 
 </br></br>
 1. Example 1 <a href="http://pendelcam.kip.uni-heidelberg.de/view/viewer_index.shtml?id=100172">Kirchhoff-Institut fuer Physik</a> </br> 
