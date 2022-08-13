@@ -22,6 +22,9 @@
 * ```python3 CheapIpCams.py```
 * Enjoy!
 
+## Third method
+* http://www.insecam.org
+
 
 <p text align = "center">Simple? </p>
 
