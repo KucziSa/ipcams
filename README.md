@@ -14,10 +14,15 @@
 
 ## Second method
 ### Installation: 
-
-
+* ```apt-get install python3```
+* ```apt-get install git```
+* ```git clone https://github.com/KucziSa/ipcams```
+* ```cd ipcams```
+* ```pip install requirements.txt```
+* ```python3 CheapIpCams.py```
+* Enjoy!
 
 
 <p text align = "center">Simple? </p>
 
-<h6 text align = "right">Kuczi$</h6>
+<h6 text align = "right" href="https://kuczis.mysocials.pl">©Kuczi$</h6>
