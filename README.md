@@ -26,6 +26,10 @@
 ## Third method
 * http://www.insecam.org
 
+## Fourth method
+* Type in google: 
+* ```intitle:"device(anonymous)"```
+
 
 <p text align = "center">Simple? </p>
 
