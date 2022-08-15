@@ -9,6 +9,7 @@
 </br></br>
 1. Example 1 <a href="http://pendelcam.kip.uni-heidelberg.de/view/viewer_index.shtml?id=100172">Kirchhoff-Institut fuer Physik</a> </br> 
 2. Example 2 <a href="http://88.131.30.164/#view">some random location</a> </br> 
+3. Example 2 <a href="http://88.136.56.84/index1.htm">some random location 2</a> </br> 
 
 </br>
 
