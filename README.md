@@ -14,6 +14,8 @@
 </br>
 
 ## Second method
+### Installation:
+* If you're on a windows PC, just run .exe file
 ### Installation: 
 * ```apt-get install python3```
 * ```apt-get install git```
